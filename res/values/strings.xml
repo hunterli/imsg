@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">SMS Fake sender</string>
+    <string name="app_name">imsg</string>
+    <string name="btn_msg">send message</string>
+    <string name="from">from:</string>
+    <string name="sms">message</string>
+    <string name="sent">sms sent</string>
+    <string name="ok">ok</string>
+
+</resources>

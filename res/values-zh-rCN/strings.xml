@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">SMS伪装者</string>
+    <string name="app_name">短信伪装者</string>
+    <string name="btn_msg">发送伪装短信给自己</string>
+    <string name="from">发送人手机号码:</string>
+    <string name="sms">短信内容</string>
+    <string name="sent">短信已发送</string>
+    <string name="ok">确定</string>
+
+</resources>

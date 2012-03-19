@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">SMS偽裝者</string>
+    <string name="app_name">偽裝者</string>
+    <string name="btn_msg">發送偽裝短消息給自己</string>
+    <string name="from">發送者號碼:</string>
+    <string name="sms">短消息內容</string>
+    <string name="sent">短消息已經發出</string>
+    <string name="ok">確定</string>
+
+</resources>
